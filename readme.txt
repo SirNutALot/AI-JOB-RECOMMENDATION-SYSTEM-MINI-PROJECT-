@@ -16,4 +16,11 @@ Main Directory:
 ---backend (folder)
 remaining files
 
+For Using Docker,
+Change: [In app.py]
 
+url = "http://127.0.0.1:8000/top_jobs"
+
+TO the Docker version:
+
+url = "http://backend:8000/top_jobs"
