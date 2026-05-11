@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+requests
+PyPDF2
+pandas
+numpy
+scikit-learn
+spacy
+sentence-transformers
+torch
+transformers
+python-multipart
+pydantic
